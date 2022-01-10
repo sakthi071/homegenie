@@ -13,7 +13,7 @@ const[Offfice ,setOffice] = useState("")
 const[Password ,setPassword] = useState("")
 const[Cpassword ,setCpassword] = useState("")
 const [country , setcountry] = useState("")
-let sakthi = ["country","India","america","China","Japan"]
+let sakthi = ["country","Indi","america","China","Japan"]
 const[gender ,setGender] = useState({})
 return (
     <div className ="sakthi">
